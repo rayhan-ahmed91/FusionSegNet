@@ -1,6 +1,4 @@
 ## FusionSegNet ##
-FusionSegNet Architecture
-
 FusionSegNet is a deep neural network architecture designed for precise medical image segmentation, incorporating advanced multi-scale feature extraction, attention mechanisms, and uncertainty modeling. The architecture integrates several key modules to progressively refine features, capture contextual dependencies, and handle prediction uncertainty.
 
 **Key Components:**
