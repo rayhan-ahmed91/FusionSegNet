@@ -32,5 +32,6 @@ volume = {124},
 pages = {103399},
 year = {2025},
 issn = {1566-2535},
-doi = {https://doi.org/10.1016/j.inffus.2025.103399}
+doi = {https://doi.org/10.1016/j.inffus.2025.103399},
+author = {Md Rayhan Ahmed and Patricia Lasserre}
 }
