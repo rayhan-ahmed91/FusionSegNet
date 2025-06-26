@@ -26,11 +26,11 @@ If you use FusionSegNet in your research, please cite our paper:
 BibTeX:
 ```bibtex
 @article{AHMED2025103399,
-  title = {FusionSegNet: A Hierarchical Multi-Axis Attention and gated feature fusion network for breast lesion segmentation with uncertainty modeling in ultrasound imaging},
-  journal = {Information Fusion},
-  pages = {103399},
-  year = {2025},
-  issn = {1566-2535},
-  doi = {https://doi.org/10.1016/j.inffus.2025.103399},
-  url = {https://www.sciencedirect.com/science/article/pii/S1566253525004725}
+title = {FusionSegNet: A Hierarchical Multi-Axis Attention and gated feature fusion network for breast lesion segmentation with uncertainty modeling in ultrasound imaging},
+journal = {Information Fusion},
+volume = {124},
+pages = {103399},
+year = {2025},
+issn = {1566-2535},
+doi = {https://doi.org/10.1016/j.inffus.2025.103399}
 }
